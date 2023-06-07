@@ -1,4 +1,4 @@
-# Frontned-Template
+# Frontend-Template
 
 Frontend Website Using HTML,CSS,BootStrap.
 
